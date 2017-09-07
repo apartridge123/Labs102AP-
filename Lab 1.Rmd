@@ -1,7 +1,47 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+##Alexander Partridge##
+
+Exercise 2 
+The difference between the ## and the #### is that the ## makes the text bigger and bolder whereas #### 
+
+Exercise 3 
+*What happens when you surround text with one-star pairs?* The text is normal with one star 
+
+**What happens when you surround text with two-star pairs?** The text becomes bolded with 2 stars 
+
+***What happens when you surround text with three-star pairs?***
+
+The text becomes italicized with 3 stars. 
+1.  Start typing this list. Note there are two spaces between the period and the word "Start". 
+2.  Type the second line of the list
+1.  What happens if I type step 3 as another step 1? if you type step 3 as another step 1 Rstudio will not register the numbers as a list. 
+
+*   What does this star at the beginning do? The star will create a neatly organized bullet point list. 
+*   Visually, it's similar to the numbered list.
+
+1.  What happens if we nest a list? If you nest the list it becomes more neat and organized opposed to the disorganized jumble of the prior list.
+    1.  Type four spaces, then type the number
+    2.  Did this do what you expected? 
+2.  What if we contine the numbers this way?
+    *   What happens if we indent using stars?
+    *   Let's add another one for good measure.
+        *   Can we get another level of nesting?
+        
+[What does this do?](https://google.com) This opens a new window showing google. 
+        
+![How is this different from the above?](test-image.jpeg) This text is in italics.
+
+Exercise 4 
+
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | --- | ---: | :---: | :--- |
 | Notice | what | the | colons |
-| are | doing? | | |
+| are | doing? | | | The colons are spacing out the columns so that they are spaced normally
+
 
 Table: The table with poor spacing
 
@@ -11,3 +51,11 @@ Table: The table with poor spacing
 | are      | doing?   |          |          |          |
 
 Table: The table with good spacing
+
+Exercise 6 
+This code displays a graph that shows a scatter plot graph
+
+Exercise 7
+There is a connection between the graph from the previous gragh and this graph. This function seems to print the data of the mpg from the previous function. 
+
+
